@@ -25,7 +25,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![exp 1 maths](https://github.com/user-attachments/assets/b77c9bec-7d52-4350-ba4c-c1c2f48c3e05)
+![exp 1 maths](exp%201%20maths.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
